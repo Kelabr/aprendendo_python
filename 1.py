@@ -1,25 +1,19 @@
-#Código feito por mim 
+# Exercício – Adivinhe o número mágico
+# Crie um programa em Python que:
 
-# import random
+# Escolhe um número secreto entre 1 e 20 (pode ser fixo ou usar import random).
 
-# numero_secreto = random.randint(1, 20)
-# acertou = False
-# tentativas = 0
-# numero = int(input("Digite um número entre '1' e '20': "))
+# O usuário tem até 5 tentativas para adivinhar.
 
+# A cada tentativa, o programa:
 
-# while acertou == False and tentativas < 4 :
-#     if numero != numero_secreto:
-#         print("Iiiii ERROU EMMM")
-#         tentativas += 1
-#         print(tentativas)
-#         print(numero)
-#         print(numero_secreto)
-#         numero = int(input("Digite um número entre '1' e '20': "))
-#     else:
-#         print("Acertouuu")
-#         acertou = True
-#         break
+# Pede ao usuário para digitar um número.
+
+# Informa se o número é maior, menor ou igual ao número secreto.
+
+# Se o usuário acertar, o programa exibe: "Parabéns! Você acertou!"
+
+# Se errar todas, exibe: "Suas tentativas acabaram! O número era X."
 
 
 import random
