@@ -1,2 +1,4 @@
 # aprendendo_python
-Esse é um repositório para guardar os meus exercícios que eu peço pro chat gpt criar para mim, no momento estou iniciando com a linguagem python e estou bem satisfeito com o que ela tem me proporcionado, principalmente na parte de estar me dando um tapa de luva o quesito base de lógica de programação e me mostrando o poder de um "for" ou de um "if". Esoeri poder ajudar pessoas com isso e que todos consigam aprender com esses desafiso como eu estou aprendendo, ha... mias uma coisa LEIA A DOCUMENTAÇÃO!!! Eu aprendi isso a pouco tempo na marra hahah
+### 1 - Adivinhe o número mágico
+### 2 - Caixa eletrónico 
+### 3 - Palavras Palíndromas
